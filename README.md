@@ -1,2 +1,2 @@
 # E-commerce-project
-this is my encomerce project code 
+this is my e-commerce project code 
